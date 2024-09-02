@@ -1,0 +1,15 @@
+{
+	"required": true,
+	"package": "org.lavalogged.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"AbstractBlockMixin",
+		"BlockMixin",
+		"Lavaloggable",
+		"NeighborUpdateMixin",
+		"PlacementMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
