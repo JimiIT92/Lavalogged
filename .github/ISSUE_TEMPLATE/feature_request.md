@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Add your ideas to MineWorld!
+about: Add your ideas to Lavalogged!
 title: ''
 labels: enhancement
 assignees: JimiIT92
