@@ -1,4 +1,4 @@
-# CONTRIBUTING TO MINEWORLD
+# CONTRIBUTING TO LAVALOGGED
 
 Contributions from all developers are always welcome, so feel free to fork the project and make a PR when you have a change or a new addition that you would like to add. 
 Keep in mind that the code should follow the principles of the existing source and that the addition should not be incoherent with the rest of the mod.
