@@ -39,6 +39,7 @@ Future Updates may include, but not guaranteed:
 - Removal of the [Statement API Library Mod](https://modrinth.com/mod/statement) dependency
 - Update to Minecraft 1.21.1
 - Support for modded Blocks
+- Support for Forge and NeoForge
 
 -------------------------
 ### 🖥 Downloads
@@ -64,6 +65,12 @@ But if you **really** want to financially support the project (or just buy me so
 <p style="text-align:center"><a href="https://www.buymeacoffee.com/JimiIT92" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" width=330 height=75 alt="Buy Me A Beer"></a>&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=26VTWV4CY282S" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/PayPal_logo.svg/1280px-PayPal_logo.svg.png" width=330 height=75 alt="Donate with PayPal"></a></p>
 
 Any other website asking you money for this project is a scam, and you should immediately report it to your local authorities as well! 😡
+
+-------------------------
+### 🙏🏼 Credits
+
+This mod was inspired by the [More Waterlogging Mod](https://modrinth.com/mod/morewaterlogging). Check out this awesome mod too! 😁
+
 
 -------------------------
 ### 😁 Conclusion
